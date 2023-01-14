@@ -17,7 +17,6 @@ Jinja2==3.1.2
 jsonschema==4.17.3
 MarkupSafe==2.1.1
 numpy==1.24.1
-opencv-python==4.7.0.68
 packaging==22.0
 pandas==1.5.2
 Pillow==9.4.0
@@ -47,8 +46,6 @@ validators==0.20.0
 watchdog==2.2.1
 zipp==3.11.0
 vaderSentiment
-opencv-contrib-python==4.5.5.64
-opencv-python==4.5.5.64
 streamlit==1.8.1
 streamlit-modal==0.0.5
 streamlit-option-menu==0.3.2
@@ -62,8 +59,6 @@ requests-oauthlib==1.3.1
 plotly==5.7.0
 Pillow==8.4.0
 asyncio==3.4.3
-opencv-contrib-python==4.5.5.64
-# opencv-python==4.5.5.64
-opencv-python-headless==4.5.5.64
+opencv-python-headless
 tensorflow
 sacremoses==0.0.53
