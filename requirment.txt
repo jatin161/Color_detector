@@ -9,3 +9,4 @@ opencv-contrib-python
 streamlit-modal
 streamlit-option-menu
 opencv-python-headless
+opencv-python==4.1.0.25
