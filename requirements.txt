@@ -55,14 +55,4 @@ urllib3==1.26.13
 validators==0.20.0
 watchdog==2.2.1
 zipp==3.11.0
-pickle
-numpy
-opencv-contrib-python-headless
-streamlit
-pandas
-opencv-python
-opencv-contrib-python
-streamlit-modal
-streamlit-option-menu
-opencv-python-headless
-opencv-python==4.1.0.25
+
