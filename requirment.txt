@@ -1,5 +1,11 @@
 pickle
+numpy
+opencv-contrib-python-headless
 streamlit
 cv2
 pandas
-opencv-python==4.1.0.25
+opencv-python
+opencv-contrib-python
+streamlit-modal
+streamlit-option-menu
+opencv-python-headless
