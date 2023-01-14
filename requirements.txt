@@ -58,3 +58,4 @@ zipp==3.11.0
 opencv-contrib-python
 opencv-python
 opencv-python-headless
+libgl1
